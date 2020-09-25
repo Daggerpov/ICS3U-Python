@@ -24,3 +24,5 @@ while True:
     
     else:
         break
+
+#see pdf made from kami for other answers
