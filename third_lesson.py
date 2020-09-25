@@ -1,9 +1,9 @@
 '''2
 while True:
       print("Have a good day")
-'''to stop execution of a python file, all you have to do 
+"""to stop execution of a python file, all you have to do 
 is press Ctrl+C in the terminal you're running it on. 
-This creates a "KeyboardInterrupt".'''
+This creates a "KeyboardInterrupt"."""
 '''
 '''3
 print("Please type 'quit' to stop entering words. ")
