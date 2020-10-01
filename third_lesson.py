@@ -34,9 +34,12 @@ for i in range(100, endpoint-1, -5):
       print(i)
 '''
 '''7
-endpoint = int(input("What number do I stop at? "))
-print(f"Stop when count is less than {endpoint}")
-for i in range(100, endpoint-1, -5):
+number = input("What is your number? ")
+sum, digits = 0, 0
+for i in number:
+      sum += int(i)
+      digits += 1
+print(f"Your number has {digits} digits and their sum is {sum}. ")
 '''
 '''8 a)
 import random 
@@ -76,3 +79,4 @@ while True:
       if repeat.lower() != 'yes':
             break
 '''
+
