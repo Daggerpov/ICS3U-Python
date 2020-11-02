@@ -21,9 +21,9 @@ def getBiggerNumber(x, y):
 '''
 '''4
 def histogram(list):
-      for i in list:
+      for i in range(list):
             print(f"{i * '*'}")
-'''
+print(histogram(4))'''
 '''5
 def Cel2Fah(deg_cel):
       return round(deg_cel * 9 / 5 + 32, 1)
