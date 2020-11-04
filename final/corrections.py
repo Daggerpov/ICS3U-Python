@@ -10,6 +10,7 @@
     - Change code to make use of definitions, exception handling, and/or lists to improve the overall code structure
     - Add ONE feature such as allowing for entry of ANY number of candidates or if there is a tie for the winner, state all the winners who tied
 """
+
 '''
 The purpose of this program is to simulate an election process between 4 
 candidates. The user will be able to input who they're voting for until they
